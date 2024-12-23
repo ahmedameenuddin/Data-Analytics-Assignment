@@ -1,10 +1,11 @@
 Report: Data Analytics Assignment: Insights and Recommendations on Cooking Sessions and User Behavior
+
 Summary
 This report analyzes the relationship between cooking sessions and user orders, identifies popular dishes, and explores demographic factors influencing user behavior. Insights derived from the data aim to guide strategic decisions for enhancing user satisfaction and operational efficiency.
 
+
 1. Data Overview
 Datasets Used:
-
 UserDetails
 CookingSessions
 OrderDetails

@@ -30,11 +30,15 @@ Sessions with higher ratings often resulted in repeat orders, indicating that pr
 
 **The top 5 dishes ordered by users are:**
 
-Spaghetti
-Grilled Chicken
-Caesar Salad
-Veggie Burger
-Pancakes
+1. Spaghetti
+
+2. Grilled Chicken
+
+3. Caesar Salad
+
+4. Veggie Burger
+
+5. Pancakes
 
 Meal types like Dinner are most preferred during the evening hours, aligning with typical consumer behavior of preferring heavier meals in the late hours.
 

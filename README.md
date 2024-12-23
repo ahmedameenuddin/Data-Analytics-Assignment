@@ -51,8 +51,9 @@ Location Insights: Locations like Chicago, New York, and Los Angeles contribute 
 Favorite Meal Trends: Users who favor meals like Spaghetti and Grilled Chicken tend to have a higher average order value.
 
 **3. Visualizations**
-Bar Chart: Top 5 Popular Dishes (Spaghetti, Grilled Chicken, Caesar Salad, Veggie Burger, Pancakes)
-Pie Chart: Orders by Location (Chicago, New York, Los Angeles)
+1. Bar Chart: Top 5 Popular Dishes (Spaghetti, Grilled Chicken, Caesar Salad, Veggie Burger, Pancakes)
+
+2. Pie Chart: Orders by Location (Chicago, New York, Los Angeles)
 
 **4. Recommendations**
 Enhance User Experience:
